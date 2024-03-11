@@ -29,12 +29,16 @@ _Note_: To contribute, send a pull request to this repository. Note that this re
 # Resources
 - [Tasks](https://huggingface.co/tasks): A documentation project to let developers build their first machine learning based product using models off-the-shelf.
 # Libraries, Platforms and Development Platform-specific Resources
+
 ## Platforms
 - [Hugging Face Hub](https://huggingface.co/): Collaborative platform for machine learning. Discover hundreds of thousands of open-source models able to work off-the-shelf in [/models](https://huggingface.co/models).
+  
 ## Development Platform
+
 ### Web
 - [Transformers.js](https://huggingface.co/docs/transformers.js/en/index): A library to run cutting edge models directly in-browser.
 - [huggingface.js](https://huggingface.co/docs/huggingface.js/en/index): A library to play with models on Hugging Face Hub through javascript.
+
 ### Mobile
 
 ### Edge
