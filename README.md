@@ -41,7 +41,7 @@ _Note_: To contribute, send a pull request to this repository. Note that this re
 
 ### Mobile
 
-### Edge
+### Edge
 
 ### Serving
 - [Text Generation Inference](https://huggingface.co/docs/text-generation-inference/index): Toolkit to serve large language models.
