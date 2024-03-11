@@ -1,5 +1,10 @@
 # Awesome Open-source Machine Learning for Developers
 List of resources, libraries and more for developers who would like to build with open-source machine learning off-the-shelf.
+
+**Motivation**: Developers are often building machine learning with closed-source models behind gated APIs. These models can change by time without developers knowing, companies are giving away their data during inference and have no control over the model nor data. There are a ton of open-source models out there that can be deployed by developers, but reducing barrier of entry to use these models and making developers aware of them are necessary, so I created this repository to do so. 
+
+Using the resources here, you can learn to find the model you need and serve it on the platform of your choice using the tools given here. 
+
 _Note_: To contribute, send a pull request to this repository. Note that this repository is focused on open-source machine learning.
 
 
@@ -30,7 +35,7 @@ _Note_: To contribute, send a pull request to this repository. Note that this re
 - [Tasks](https://huggingface.co/tasks): A documentation project to let developers build their first machine learning based product using models off-the-shelf.
 # Libraries, Platforms and Development Platform-specific Resources
 
-## Platforms
+## Platforms
 - [Hugging Face Hub](https://huggingface.co/): Collaborative platform for machine learning. Discover hundreds of thousands of open-source models able to work off-the-shelf in [/models](https://huggingface.co/models).
   
 ## Development Platform
