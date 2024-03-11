@@ -43,6 +43,8 @@ _Note_: To contribute, send a pull request to this repository. Note that this re
   
 ## Development Platform
 
+- [ONNX Runtime](https://onnxruntime.ai/): Platform agnostic model runtime to use ML models.
+
 ### Web
 - [Transformers.js](https://huggingface.co/docs/transformers.js/en/index): A library to run cutting edge models directly in-browser.
 - [huggingface.js](https://huggingface.co/docs/huggingface.js/en/index): A library to play with models on Hugging Face Hub through javascript.
