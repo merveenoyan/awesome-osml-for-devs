@@ -58,6 +58,7 @@ _Note_: To contribute, send a pull request to this repository. Note that this re
 ## Multimodal Models
 ### Understanding Image and Text
 ### Document AI
+## Generative AI
 ## Computer Vision
 ## Natural Language Processing
 ## Audio
