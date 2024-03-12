@@ -93,6 +93,7 @@ _Note_: The foundation model can be found under their associated task.
 ### Models and Demos
 - [OWL](https://huggingface.co/collections/merve/owl-series-65aaac3114e6582c300544df): A curation about OWL model released by Google, the most powerful zero-shot object detection model. (as of March '24)
 - [Segment Anything](https://huggingface.co/collections/merve/segment-anything-model-6585835fc76915aa14e2bcbd): A curation about Segment Anything model released by Meta, the most powerful zero-shot image segmentation model. (as of March '24)
+- [Depth Anything](https://github.com/LiheYoung/Depth-Anything): A highly practical solution for robust monocular depth estimation by training on a combination of 1.5M labeled images and 62M+ unlabeled images.
 ## Natural Language Processing
 ## Audio
 - [Insanely Fast Whisper](https://github.com/Vaibhavs10/insanely-fast-whisper): A CLI to shrink and serve Whisper on-device.
