@@ -54,7 +54,8 @@ _Note_: To contribute, send a pull request to this repository. Note that this re
 - [TensorFlow Lite](https://www.tensorflow.org/lite): A library to deploy models on mobile and edge devices.
 - [Mediapipe](https://developers.google.com/mediapipe): A framework that has prebuilt and customizable ML solutions, ready to deploy on Android, iOS.
 - [ExecuTorch](https://pytorch.org/executorch/): A library for enabling on-device ML in mobile/edge devices for PyTorch models.
-- [huggingface.dart](https://github.com/shivance/huggingface.dart): A Dart SDK to interact with the models on Hugging Face Hub. 
+- [huggingface.dart](https://github.com/shivance/huggingface.dart): A Dart SDK to interact with the models on Hugging Face Hub.
+- [flutter-tflite](https://github.com/tensorflow/flutter-tflite): TensorFlow Lite Flutter plugin provides an easy, flexible, and fast Dart API to integrate TFLite models in flutter apps across mobile and desktop platforms.
 ### Edge
 - [TensorFlow Lite](https://www.tensorflow.org/lite): A library to deploy models on mobile and edge devices.
 - [ExecuTorch](https://pytorch.org/executorch/): A library for enabling on-device ML in mobile/edge devices for PyTorch models.
