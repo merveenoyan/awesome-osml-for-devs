@@ -7,6 +7,7 @@ List of resources, libraries and more for developers who would like to build wit
 There are a ton of open-source models out there that can be deployed by developers, but reducing barrier of entry to use these models and making developers aware of them are necessary, so I created this repository to do so.
 
 Using the resources here, you can learn to find the model you need and serve it on the platform of your choice using the tools given here.
+
 Hint: Take a look at foundation models section for one-model-fits-all type of models.
 
 _Note_: To contribute, send a pull request to this repository. Note that this repository is focused on open-source machine learning.
@@ -92,9 +93,10 @@ This section contains powerful models that can generalize well and can be used o
 
 The following resources are on zero-shot models: These models take in an image or text and possible classes in those images or texts.
 
-- [Zero-shot Object Detection](https://huggingface.co/tasks/zero-shot-object-detection):
+- [Zero-shot Object Detection](https://huggingface.co/tasks/zero-shot-object-detection)
 - [Zero-shot Image Classification Resources](https://huggingface.co/tasks/zero-shot-image-classification)
 - [Zero-shot Text Classification Resources](https://huggingface.co/tasks/zero-shot-classification)
+
 _Note_: The foundation model can be found under their associated task.
 
 ## LLMs
