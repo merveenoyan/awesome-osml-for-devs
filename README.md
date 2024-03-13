@@ -61,6 +61,8 @@ _Note_: To contribute, send a pull request to this repository. Note that this re
 
 - [Transformers.js](https://huggingface.co/docs/transformers.js/en/index): A library to run cutting edge models directly in-browser.
 - [huggingface.js](https://huggingface.co/docs/huggingface.js/en/index): A library to play with models on Hugging Face Hub through javascript.
+- [TensorFlow.js](https://www.tensorflow.org/js): A library for machine learning in JavaScript.
+- [Mediapipe](https://developers.google.com/mediapipe/api/solutions/js) A framework that has prebuilt and customizable ML solutions, ready to deploy on Web
 
 ### Mobile
 
@@ -69,6 +71,7 @@ _Note_: To contribute, send a pull request to this repository. Note that this re
 - [ExecuTorch](https://pytorch.org/executorch/): A library for enabling on-device ML in mobile/edge devices for PyTorch models.
 - [huggingface.dart](https://github.com/shivance/huggingface.dart): A Dart SDK to interact with the models on Hugging Face Hub.
 - [flutter-tflite](https://github.com/tensorflow/flutter-tflite): TensorFlow Lite Flutter plugin provides an easy, flexible, and fast Dart API to integrate TFLite models in flutter apps across mobile and desktop platforms.
+- [NCNN](https://github.com/Tencent/ncnn): A high-performance neural network inference framework optimized for the mobile platform.
 
 ### Edge
 
