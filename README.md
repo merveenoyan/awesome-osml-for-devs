@@ -86,6 +86,7 @@ _Note_: To contribute, send a pull request to this repository. Note that this re
 - [Tensorflow Serving](https://www.tensorflow.org/tfx/guide/serving): Flexible, high-performance serving system for machine learning models, designed for production environments.
 - [Inference](https://github.com/roboflow/inference): A fast, easy-to-use, production-ready inference server for computer vision supporting deployment of many popular model architectures and fine-tuned models.
 - [Nvidia Triton Inference Server](https://github.com/triton-inference-server/server): Open source inference serving software that streamlines AI inferencing. Triton enables teams to deploy any AI model from multiple deep learning and machine learning frameworks, including TensorRT, TensorFlow, PyTorch, ONNX, OpenVINO, Python, RAPIDS FIL, and more.
+- [PyTrion](https://triton-inference-server.github.io/pytriton/latest/): PyTriton is a Flask/FastAPI-like interface that simplifies Triton's deployment in Python environments. The library allows serving Machine Learning models directly from Python through NVIDIA's Triton Inference Server.
 
 ### Game Development
 
