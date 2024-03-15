@@ -18,6 +18,7 @@ _Note_: To contribute, send a pull request to this repository. Note that this re
 - [Libraries, Platforms and Development Platform-specific Resources](#libraries-platforms-and-development-platform-specific-resources)
   - [Platforms](#platforms)
   - [Development Platform](#development-platform)
+    - [Framework] (#framework)
     - [Web](#web)
     - [Mobile](#mobile)
     - [Edge](#edge)
@@ -52,19 +53,26 @@ _Note_: To contribute, send a pull request to this repository. Note that this re
 ### Platforms
 
 - [Hugging Face Hub](https://huggingface.co/): Collaborative platform for machine learning. Discover hundreds of thousands of open-source models able to work off-the-shelf in [/models](https://huggingface.co/models).
-  
+- [Kaggle Models](https://www.kaggle.com/models): Discover and use thousands of machine learning models, including the most popular diffusion models and LLMs. 
+- [Pytorch Hub](https://pytorch.org/hub/): Discover and publish models to a pre-trained model repository designed for research exploration.
+
 ### Development Platform
 
 - [ONNX Runtime](https://onnxruntime.ai/): Platform agnostic model runtime to use ML models.
 
-### Web
+#### Framework
+
+- [TensorFlow](https://www.tensorflow.org): An end-to-end open source platform for machine learning.
+- [PyTorch](https://pytorch.org/): An open source machine learning framework that accelerates the path from research prototyping to production deployment.
+
+#### Web
 
 - [Transformers.js](https://huggingface.co/docs/transformers.js/en/index): A library to run cutting edge models directly in-browser.
 - [huggingface.js](https://huggingface.co/docs/huggingface.js/en/index): A library to play with models on Hugging Face Hub through javascript.
 - [TensorFlow.js](https://www.tensorflow.org/js): A library for machine learning in JavaScript.
 - [Mediapipe](https://developers.google.com/mediapipe/api/solutions/js) A framework that has prebuilt and customizable ML solutions, ready to deploy on Web
 
-### Mobile
+#### Mobile
 
 - [TensorFlow Lite](https://www.tensorflow.org/lite): A library to deploy models on mobile and edge devices.
 - [Mediapipe](https://developers.google.com/mediapipe): A framework that has prebuilt and customizable ML solutions, ready to deploy on Android, iOS.
@@ -73,19 +81,19 @@ _Note_: To contribute, send a pull request to this repository. Note that this re
 - [flutter-tflite](https://github.com/tensorflow/flutter-tflite): TensorFlow Lite Flutter plugin provides an easy, flexible, and fast Dart API to integrate TFLite models in flutter apps across mobile and desktop platforms.
 - [NCNN](https://github.com/Tencent/ncnn): A high-performance neural network inference framework optimized for the mobile platform.
 
-### Edge
+#### Edge
 
 - [TensorFlow Lite](https://www.tensorflow.org/lite): A library to deploy models on mobile and edge devices.
-- [ExecuTorch](https://pytorch.org/executorch/): A library for enabling on-device ML in mobile/edge devices for PyTorch models.
+- [ExecuTorch](https://pytorch.org/executorch/): A library for enabling on-device ML in everywhere from AR/VR wearables to mobile/edge devices for PyTorch models.
 
-### Cloud Deployment
+#### Cloud Deployment
 
-### Serving
+#### Serving
 
 - [Text Generation Inference](https://huggingface.co/docs/text-generation-inference/index): Toolkit to serve large language models.
 - [Text Embedding Inference](https://huggingface.co/docs/text-embeddings-inference/index): Toolkit to serve text embeddings.
 
-### Game Development
+#### Game Development
 
 ## Modalities and Tasks
 
