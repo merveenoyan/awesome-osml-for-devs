@@ -82,6 +82,7 @@ _Note_: To contribute, send a pull request to this repository. Note that this re
 
 - [Text Generation Inference](https://huggingface.co/docs/text-generation-inference/index): Toolkit to serve large language models.
 - [Text Embedding Inference](https://huggingface.co/docs/text-embeddings-inference/index): Toolkit to serve text embeddings.
+- [TorchServe](https://pytorch.org/serve/): Flexible, easy to use and scalable inference server.
 
 ### Game Development
 
@@ -105,6 +106,7 @@ _Note_: The foundation model can be found under their associated task.
 
 - [Text Generation Inference](https://huggingface.co/docs/text-generation-inference/index): Toolkit to serve large language models.
 - [Text Embedding Inference](https://huggingface.co/docs/text-embeddings-inference/index): Toolkit to serve text embeddings.
+- [TGI Benchmark](https://www.youtube.com/watch?v=jlMAX2Oaht0): Understanding throughput of inference servers, with TGI example.
 - [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard): A leaderboard to find the open-source LLM for your use and budget.
 
 ## Multimodal Models
@@ -145,3 +147,7 @@ _Note_: The foundation model can be found under their associated task.
 - [Open TTS Tracker](https://github.com/Vaibhavs10/open-tts-tracker): An awesome repository to keep a track of open-source text-to-speech models.
 
 ## Advanced
+
+## Other
+
+- [Raycast](https://github.com/raycast/extensions) Automate commands on macOS apps with a local ollama LLM, with Raycast extensions.
