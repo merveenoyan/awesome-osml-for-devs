@@ -19,7 +19,7 @@ _Note_: To contribute, send a pull request to this repository. Note that this re
 - [Libraries, Platforms and Development Platform-specific Resources](#libraries-platforms-and-development-platform-specific-resources)
   - [Platforms](#platforms)
   - [Development Platform](#development-platform)
-    - [Framework] (#framework)
+    - [Framework](#framework)
     - [Web](#web)
     - [Mobile](#mobile)
     - [Edge](#edge)
