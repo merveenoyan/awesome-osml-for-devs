@@ -53,7 +53,7 @@ _Note_: To contribute, send a pull request to this repository. Note that this re
 ### Platforms
 
 - [Hugging Face Hub](https://huggingface.co/): Collaborative platform for machine learning. Discover hundreds of thousands of open-source models able to work off-the-shelf in [/models](https://huggingface.co/models).
-  
+
 ### Development Platform
 
 - [ONNX Runtime](https://onnxruntime.ai/): Platform agnostic model runtime to use ML models.
