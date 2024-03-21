@@ -1,0 +1,55 @@
+site_name: awesome-osml-for-devs
+site_url: https://merveenoyan.github.io/awesome-osml-for-devs/
+site_author: merveenoyan
+site_description: List of resources, libraries and more for developers who would like to build with open-source machine learning off-the-shelf
+repo_name: merveenoyan/awesome-osml-for-devs
+repo_url: https://github.com/merveenoyan/awesome-osml-for-devs
+edit_uri: https://github.com/merveenoyan/awesome-osml-for-devs/tree/main/docs
+copyright: Awesome Osml For Developers 2024. All rights reserved.
+
+nav:
+  - Home: index.md
+
+theme:
+  name: 'material'
+  features:
+    - navigation.tracking
+    - content.code.copy
+    - content.tooltips
+    - content.code.annotate
+
+  palette:
+    - scheme: default
+      primary: 'custom'
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    - scheme: slate
+      primary: 'custom'
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+  font:
+    text: Roboto
+    code: Roboto Mono
+    features:
+      - content.code.copy
+      - content.code.annotate
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: true
+  - pymdownx.snippets:
+      check_paths: true
+  - pymdownx.highlight:
+      anchor_linenums: true

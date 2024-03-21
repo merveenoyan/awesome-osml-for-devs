@@ -1,0 +1,30 @@
+name: Publish Documentation Website 📚
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event_name == 'push' && github.ref}}
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+  pages: write
+  pull-requests: write
+
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 🔄 Checkout code
+        uses: actions/checkout@v4
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      - run: pip install "mkdocs-material" "mkdocs-material[imaging]"
+      - run: mkdocs gh-deploy --force
