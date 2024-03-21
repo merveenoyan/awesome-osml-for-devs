@@ -101,6 +101,11 @@ _Note_: To contribute, send a pull request to this repository. Note that this re
 
 #### Game Development
 
+- #### Unity 
+
+  - [MediaPipe Unity Plugin](https://github.com/homuler/MediaPipeUnityPlugin): Unity plugin to run MediaPipe. This approach may sacrifice performance when you need to call multiple APIs in a loop, but it gives you the flexibility to use MediaPipe instead.
+  - [Hugging Face API for Unity 🤗](https://github.com/huggingface/unity-api): This Unity package provides an easy-to-use integration for the Hugging Face Inference API, allowing developers to access and use Hugging Face AI models within their Unity projects.
+
 ## Modalities and Tasks
 
 This section contains powerful models that can generalize well and can be used out-of-the-box.
