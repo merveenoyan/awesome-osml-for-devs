@@ -128,6 +128,8 @@ _Note_: The foundation model can be found under their associated task.
 - [Text Embedding Inference](https://huggingface.co/docs/text-embeddings-inference/index): Toolkit to serve text embeddings.
 - [TGI Benchmark](https://www.youtube.com/watch?v=jlMAX2Oaht0): Understanding throughput of inference servers, with TGI example.
 - [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard): A leaderboard to find the open-source LLM for your use and budget.
+- [Ollama](https://github.com/ollama/ollama): Get up and running with Llama 2, Mistral, Gemma, and other large language models.
+- [Open Webui](https://github.com/open-webui/open-webui): Open WebUI is an extensible, feature-rich, and user-friendly self-hosted WebUI designed to operate entirely offline. It supports various LLM runners, including Ollama and OpenAI-compatible APIs.
 
 ## Multimodal Models
 
