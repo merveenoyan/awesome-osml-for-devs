@@ -40,6 +40,7 @@ _Note_: To contribute, send a pull request to this repository. Note that this re
     - [Models and Demos](#models-and-demos)
   - [Natural Language Processing](#natural-language-processing)
   - [Audio](#audio)
+- [Interface Tools](#interface-tools)
 - [Advanced](#advanced)
 
 <!-- /MarkdownTOC -->
@@ -54,7 +55,7 @@ _Note_: To contribute, send a pull request to this repository. Note that this re
 ### Platforms
 
 - [Hugging Face Hub](https://huggingface.co/): Collaborative platform for machine learning. Discover hundreds of thousands of open-source models able to work off-the-shelf in [/models](https://huggingface.co/models).
-- [Kaggle Models](https://www.kaggle.com/models): Discover and use thousands of machine learning models, including the most popular diffusion models and LLMs. 
+- [Kaggle Models](https://www.kaggle.com/models): Discover and use thousands of machine learning models, including the most popular diffusion models and LLMs.
 - [Pytorch Hub](https://pytorch.org/hub/): Discover and publish models to a pre-trained model repository designed for research exploration.
 
 ### Development Platform
@@ -101,7 +102,7 @@ _Note_: To contribute, send a pull request to this repository. Note that this re
 
 #### Game Development
 
-- #### Unity 
+- #### Unity
 
   - [MediaPipe Unity Plugin](https://github.com/homuler/MediaPipeUnityPlugin): Unity plugin to run MediaPipe. This approach may sacrifice performance when you need to call multiple APIs in a loop, but it gives you the flexibility to use MediaPipe instead.
   - [Hugging Face API for Unity 🤗](https://github.com/huggingface/unity-api): This Unity package provides an easy-to-use integration for the Hugging Face Inference API, allowing developers to access and use Hugging Face AI models within their Unity projects.
@@ -169,6 +170,22 @@ _Note_: The foundation model can be found under their associated task.
 - [Open TTS Tracker](https://github.com/Vaibhavs10/open-tts-tracker): An awesome repository to keep a track of open-source text-to-speech models.
 
 ## Advanced
+
+## Interface Tools
+
+- [Supervision](https://supervision.roboflow.com/latest/): Reusable computer vision tools. Whether you need to load your dataset from your hard drive, draw detections on an image or video, or count how many detections are in a zone. You can count on us!
+- [Gradio](https://www.gradio.app/): Gradio is an open-source Python package that allows you to quickly build a demo or web application for your machine learning model, API, or any arbitrary Python function. You can then share a link to your demo or web application in just a few seconds using Gradio's built-in sharing features. No JavaScript, CSS, or web hosting experience needed!
+- [Streamlit](https://streamlit.io/): Streamlit lets you transform Python scripts into interactive web apps in minutes, instead of weeks. Build dashboards, generate reports, or create chat apps. Once you’ve created an app, you can use our Community Cloud platform to deploy, manage, and share your app.
+- [Chat UI](https://github.com/huggingface/chat-ui): A chat interface using open source models, eg OpenAssistant or Llama. It is a SvelteKit app and it powers the HuggingChat app on hf.co/chat.
+- [Dash](https://github.com/plotly/dash): Built on top of Plotly.js, React and Flask, Dash ties modern UI elements like dropdowns, sliders, and graphs directly to your analytical Python code.
+
+## Labelling Tools
+
+- [Computer Vision Annotation Tool (CVAT)](https://github.com/opencv/cvat): CVAT is an interactive video and image annotation tool for computer vision. It is used by tens of thousands of users and companies around the world. Our mission is to help developers, companies, and organizations around the world to solve real problems using the Data-centric AI approach.
+- [Argilla](https://github.com/argilla-io/argilla): Argilla is a collaboration platform for AI engineers and domain experts that require high-quality outputs, full data ownership, and overall efficiency.
+- [Make Sense](https://github.com/SkalskiP/make-sense): makesense.ai is a free-to-use online tool for labeling photos. Thanks to the use of a browser it does not require any complicated installation - just visit the website and you are ready to go. It also doesn't matter which operating system you're running on - we do our best to be truly cross-platform.
+- [PolygonZone](https://github.com/roboflow/polygonzone): PolygonZone lets you draw arbitrary polygons on an image and retrieve the coordinates of the points you have drawn. PolygonZone accompanies Roboflow [Supervision](https://supervision.roboflow.com/latest/), a Python library with a range of utilities that are useful in computer vision projects.
+
 
 ## Other
 
