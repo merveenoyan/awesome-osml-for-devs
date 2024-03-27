@@ -26,3 +26,4 @@ repos:
     hooks:
     - id: markdownlint
       args: ['--disable','MD013','MD024','--fix']
+      exclude: docs/index.md

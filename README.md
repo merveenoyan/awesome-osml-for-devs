@@ -54,7 +54,7 @@ _Note_: To contribute, send a pull request to this repository. Note that this re
 ### Platforms
 
 - [Hugging Face Hub](https://huggingface.co/): Collaborative platform for machine learning. Discover hundreds of thousands of open-source models able to work off-the-shelf in [/models](https://huggingface.co/models).
-- [Kaggle Models](https://www.kaggle.com/models): Discover and use thousands of machine learning models, including the most popular diffusion models and LLMs. 
+- [Kaggle Models](https://www.kaggle.com/models): Discover and use thousands of machine learning models, including the most popular diffusion models and LLMs.
 - [Pytorch Hub](https://pytorch.org/hub/): Discover and publish models to a pre-trained model repository designed for research exploration.
 
 ### Development Platform
@@ -101,7 +101,7 @@ _Note_: To contribute, send a pull request to this repository. Note that this re
 
 #### Game Development
 
-- #### Unity 
+- #### Unity
 
   - [MediaPipe Unity Plugin](https://github.com/homuler/MediaPipeUnityPlugin): Unity plugin to run MediaPipe. This approach may sacrifice performance when you need to call multiple APIs in a loop, but it gives you the flexibility to use MediaPipe instead.
   - [Hugging Face API for Unity 🤗](https://github.com/huggingface/unity-api): This Unity package provides an easy-to-use integration for the Hugging Face Inference API, allowing developers to access and use Hugging Face AI models within their Unity projects.
@@ -154,6 +154,10 @@ _Note_: The foundation model can be found under their associated task.
 - [Stable Diffusion XL Inpainting](https://huggingface.co/spaces/diffusers/stable-diffusion-xl-inpainting): An application that can do inpainting when given a text prompt and an image.
 
 ## Computer Vision
+
+### Tools
+
+- [Supervision](https://supervision.roboflow.com/latest/): Reusable computer vision tools. Whether you need to load your dataset from your hard drive, draw detections on an image or video, or count how many detections are in a zone. You can count on us!
 
 ### Models and Demos
 
